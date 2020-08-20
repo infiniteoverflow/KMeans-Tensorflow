@@ -1,2 +1,9 @@
 # KMeans-Tensorflow
-A KMeans implementation using Tensorflow2.x
+ 
+Implementation of KMeans Clustering algorithm on `Mall Customer Dataset` using Tensorflow.
+
+Class used : 
+
+```python
+  tf.compat.v1.estimator.experimental.KMeans()
+```
